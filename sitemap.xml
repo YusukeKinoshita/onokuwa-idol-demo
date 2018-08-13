@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/schedule/2015/10/10/migrate-from-jekyll-2/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/schedule/2015/10/10/migrate-from-jekyll/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/news/2015/10/10/migrate-from-jekyll/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/schedule/2015/10/02/linked-post/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/news/2015/10/02/linked-post/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/schedule/2015/09/17/go-is-for-lovers/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/news/2015/09/17/go-is-for-lovers/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/schedule/2015/08/03/hugo-is-for-lovers/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/news/2015/08/03/hugo-is-for-lovers/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/schedule/2015/06/24/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/news/2015/06/24/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/profile/creating-a-new-theme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/categories/event/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/tags/go/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/profile/go-is-for-lovers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/tags/golang/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/tags/hugo/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/profile/hugo-is-for-lovers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/tags/ipsum/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/profile/linked-post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/categories/live/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/categories/magazine/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/categories/media/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/news/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/categories/other/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/profile/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/tags/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/categories/radio/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/categories/release/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/schedule/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/tags/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/tags/theme/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/categories/tv/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yusukekinoshita.github.io/hugotest/categories/web/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
