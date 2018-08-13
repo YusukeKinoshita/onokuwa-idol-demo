@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Universal</title>
-    <link>https://yusukekinoshita.github.io/hugotest/categories/</link>
+    <link>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/</link>
     <description>Recent content in Categories on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://yusukekinoshita.github.io/hugotest/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Event</title>
-      <link>https://yusukekinoshita.github.io/hugotest/categories/event/</link>
+      <link>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/event/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://yusukekinoshita.github.io/hugotest/categories/event/</guid>
+      <guid>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/event/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Live</title>
-      <link>https://yusukekinoshita.github.io/hugotest/categories/live/</link>
+      <link>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/live/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://yusukekinoshita.github.io/hugotest/categories/live/</guid>
+      <guid>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/live/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Magazine</title>
-      <link>https://yusukekinoshita.github.io/hugotest/categories/magazine/</link>
+      <link>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/magazine/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>https://yusukekinoshita.github.io/hugotest/categories/magazine/</guid>
+      <guid>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/magazine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Media</title>
-      <link>https://yusukekinoshita.github.io/hugotest/categories/media/</link>
+      <link>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/media/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://yusukekinoshita.github.io/hugotest/categories/media/</guid>
+      <guid>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Other</title>
-      <link>https://yusukekinoshita.github.io/hugotest/categories/other/</link>
+      <link>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/other/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://yusukekinoshita.github.io/hugotest/categories/other/</guid>
+      <guid>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/other/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Radio</title>
-      <link>https://yusukekinoshita.github.io/hugotest/categories/radio/</link>
+      <link>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/radio/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://yusukekinoshita.github.io/hugotest/categories/radio/</guid>
+      <guid>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/radio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Release</title>
-      <link>https://yusukekinoshita.github.io/hugotest/categories/release/</link>
+      <link>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/release/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://yusukekinoshita.github.io/hugotest/categories/release/</guid>
+      <guid>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/release/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tv</title>
-      <link>https://yusukekinoshita.github.io/hugotest/categories/tv/</link>
+      <link>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/tv/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://yusukekinoshita.github.io/hugotest/categories/tv/</guid>
+      <guid>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/tv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web</title>
-      <link>https://yusukekinoshita.github.io/hugotest/categories/web/</link>
+      <link>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/web/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://yusukekinoshita.github.io/hugotest/categories/web/</guid>
+      <guid>https://yusukekinoshita.github.io/onokuwa-idol-demo/categories/web/</guid>
       <description></description>
     </item>
     
